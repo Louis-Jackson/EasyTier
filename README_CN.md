@@ -71,6 +71,8 @@ cargo install --git https://github.com/EasyTier/EasyTier.git easytier
 
 [下载预编译文件](https://github.com/EasyTier/EasyTier/releases)（推荐，支持所有平台）
 
+Android 用户如果发现应用商店版本不是最新，请到 GitHub Releases 的最新版本页面下载 `app-universal-release.apk`（位于 Assets）。
+
 [通过 Docker 安装](https://easytier.cn/guide/installation.html#%E5%AE%89%E8%A3%85%E6%96%B9%E5%BC%8F)
 
 [安装 OpenWrt ipk 软件包](https://github.com/EasyTier/luci-app-easytier)
